@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMDBMovieClient</string>
+    <string name="movie">Movie</string>
+    <string name="tvShow">Tv Show</string>
+    <string name="artists">Artists</string>
+    <string name="title">Title</string>
+    <string name="image">Image\n</string>
+    <string name="description">Description</string>
+    <string name="update">Update</string>
+</resources>
